@@ -4,7 +4,7 @@ import { motion } from 'framer-motion';
 const galleryImages = [
   {
     before: '/gallery/exterior-before.jpg',
-    after: 'https://images.unsplash.com/photo-1494976388531-d1058494cdd8?w=600&q=80',
+    after: '/gallery/exterior-after.jpg',
     label: 'Exterior Detail',
   },
   {
